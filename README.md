@@ -1,6 +1,6 @@
-# Caafi – Policy & Legal Website
+# JirDhis – Policy & Legal Website
 
-Policy and legal website for **Caafi**, a Somali-first fitness and nutrition app.
+Policy and legal website for **JirDhis**, a Somali-first fitness and nutrition app.
 
 ## Stack
 
@@ -47,8 +47,8 @@ npm run preview   # preview the production build locally
 
 ## Brand
 
-- **App name:** Caafi (means "healthy/well" in Somali)
-- **Tagline:** Caafimaadkaaga gacantaada (Your health in your hands)
+- **App name:** JirDhis (means "healthy/well" in Somali)
+- **Tagline:** JirDhismaadkaaga gacantaada (Your health in your hands)
 - **Primary color:** Emerald `#059669`
 - **Dark:** `#0F172A`
 - **Font:** Inter

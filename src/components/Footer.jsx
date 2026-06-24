@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
         <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-6">
           <div>
-            <span className="text-emerald-500 font-extrabold text-xl tracking-tight">Caafi</span>
+            <span className="text-emerald-500 font-extrabold text-xl tracking-tight">JirDhis</span>
             <p className="text-sm text-slate-500 mt-1">Caafimaadkaaga gacantaada</p>
           </div>
 
@@ -30,7 +30,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-slate-800 mt-8 pt-6 text-center space-y-1">
-          <p className="text-sm text-slate-500">© 2025 Caafi. All rights reserved.</p>
+          <p className="text-sm text-slate-500">© 2025 JirDhis. All rights reserved.</p>
           <p className="text-xs text-slate-600">Made with ❤️ for the Somali community</p>
         </div>
       </div>

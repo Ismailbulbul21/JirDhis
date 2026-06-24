@@ -38,10 +38,10 @@ export default function Terms() {
           <SectionHeading>1. Acceptance of Terms</SectionHeading>
           <div className="space-y-3">
             <p>
-              By downloading, installing, or using the Caafi mobile application, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the app.
+              By downloading, installing, or using the JirDhis mobile application, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the app.
             </p>
             <p>
-              These terms apply to all users of Caafi, including users who access the app via iOS or Android.
+              These terms apply to all users of JirDhis, including users who access the app via iOS or Android.
             </p>
           </div>
         </section>
@@ -51,7 +51,7 @@ export default function Terms() {
           <SectionHeading>2. Description of Service</SectionHeading>
           <div className="space-y-3">
             <p>
-              Caafi is a personal fitness and nutrition tracking application. It provides:
+              JirDhis is a personal fitness and nutrition tracking application. It provides:
             </p>
             <ul className="space-y-3 mt-2">
               <Bullet>Workout planning and a comprehensive exercise library</Bullet>
@@ -60,7 +60,7 @@ export default function Terms() {
               <Bullet>Progress tracking and fitness milestone recording</Bullet>
             </ul>
             <p className="mt-4 p-4 bg-amber-50 border border-amber-200 rounded-xl text-amber-800">
-              <strong>Important:</strong> Caafi is for <strong>informational and general wellness purposes only</strong>. It is not a substitute for professional medical advice, diagnosis, or treatment.
+              <strong>Important:</strong> JirDhis is for <strong>informational and general wellness purposes only</strong>. It is not a substitute for professional medical advice, diagnosis, or treatment.
             </p>
           </div>
         </section>
@@ -69,7 +69,7 @@ export default function Terms() {
         <section>
           <SectionHeading>3. User Accounts</SectionHeading>
           <div className="space-y-3">
-            <p>To use Caafi, you must create an account. By registering, you agree that:</p>
+            <p>To use JirDhis, you must create an account. By registering, you agree that:</p>
             <ul className="space-y-3 mt-2">
               <Bullet>You will provide accurate and complete information during registration.</Bullet>
               <Bullet>You are solely responsible for the security of your account credentials.</Bullet>
@@ -83,7 +83,7 @@ export default function Terms() {
         <section>
           <SectionHeading>4. Acceptable Use</SectionHeading>
           <div className="space-y-3">
-            <p>By using Caafi, you agree <strong className="text-slate-800">NOT</strong> to:</p>
+            <p>By using JirDhis, you agree <strong className="text-slate-800">NOT</strong> to:</p>
             <ul className="space-y-3 mt-2">
               <Bullet>Use the app for any unlawful or unauthorized purpose.</Bullet>
               <Bullet>Attempt to hack, reverse engineer, scrape, or otherwise compromise the app or its infrastructure.</Bullet>
@@ -103,13 +103,13 @@ export default function Terms() {
           <SectionHeading>5. Health Disclaimer</SectionHeading>
           <div className="space-y-3">
             <p>
-              Caafi provides fitness and nutrition information for general wellness purposes only. The content within the app — including exercises, calorie targets, and nutritional data — is not intended as medical advice.
+              JirDhis provides fitness and nutrition information for general wellness purposes only. The content within the app — including exercises, calorie targets, and nutritional data — is not intended as medical advice.
             </p>
             <p>
               <strong className="text-slate-800">Always consult a qualified healthcare professional</strong> before starting any new exercise program or dietary plan, particularly if you have a pre-existing medical condition, injury, or health concern.
             </p>
             <p>
-              Caafi and its developers are not liable for any injury, illness, or health consequences that may result from following content or recommendations within the app.
+              JirDhis and its developers are not liable for any injury, illness, or health consequences that may result from following content or recommendations within the app.
             </p>
           </div>
         </section>
@@ -119,10 +119,10 @@ export default function Terms() {
           <SectionHeading>6. Intellectual Property</SectionHeading>
           <div className="space-y-3">
             <p>
-              All content within Caafi — including but not limited to the exercise database, UI design, branding, Somali-language translations, and app code — is the intellectual property of Caafi and is protected under applicable copyright and trademark laws.
+              All content within JirDhis — including but not limited to the exercise database, UI design, branding, Somali-language translations, and app code — is the intellectual property of JirDhis and is protected under applicable copyright and trademark laws.
             </p>
             <p>
-              You may not reproduce, copy, distribute, sell, or create derivative works from any content in Caafi without express written permission.
+              You may not reproduce, copy, distribute, sell, or create derivative works from any content in JirDhis without express written permission.
             </p>
           </div>
         </section>
@@ -149,10 +149,10 @@ export default function Terms() {
           <SectionHeading>8. Limitation of Liability</SectionHeading>
           <div className="space-y-3">
             <p>
-              Caafi is provided <strong className="text-slate-800">"as is"</strong> and <strong className="text-slate-800">"as available"</strong> without warranties of any kind, either express or implied. We do not warrant that the app will be uninterrupted, error-free, or free of harmful components.
+              JirDhis is provided <strong className="text-slate-800">"as is"</strong> and <strong className="text-slate-800">"as available"</strong> without warranties of any kind, either express or implied. We do not warrant that the app will be uninterrupted, error-free, or free of harmful components.
             </p>
             <p>
-              To the fullest extent permitted by law, Caafi and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of — or inability to use — the app.
+              To the fullest extent permitted by law, JirDhis and its developers shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of — or inability to use — the app.
             </p>
           </div>
         </section>
@@ -175,7 +175,7 @@ export default function Terms() {
               If you have any questions about these Terms of Service, please reach out:
             </p>
             <div className="p-5 bg-slate-50 rounded-xl border border-slate-200">
-              <p className="font-semibold text-slate-800">Caafi Support</p>
+              <p className="font-semibold text-slate-800">JirDhis Support</p>
               <a
                 href="mailto:ismailbulbul381@gmail.com"
                 className="text-emerald-600 hover:text-emerald-700 underline"

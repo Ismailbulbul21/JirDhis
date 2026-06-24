@@ -52,7 +52,7 @@ export default function Home() {
 
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
           <h1 className="text-8xl md:text-[9rem] font-extrabold text-white tracking-tight leading-none mb-5 select-none">
-            Caafi
+            JirDhis
           </h1>
           <p className="text-emerald-400 text-xl md:text-2xl font-semibold mb-4 tracking-wide">
             Caafimaadkaaga gacantaada
@@ -92,7 +92,7 @@ export default function Home() {
               Everything you need to stay fit
             </h2>
             <p className="text-slate-500 mt-3 max-w-lg mx-auto">
-              Caafi brings your fitness journey, nutrition tracking, and progress insights together in one beautifully simple app.
+              JirDhis brings your fitness journey, nutrition tracking, and progress insights together in one beautifully simple app.
             </p>
           </div>
 
@@ -145,7 +145,7 @@ export default function Home() {
 
           <div className="space-y-3">
             <LegalLink to="/privacy" label="Privacy Policy" sub="How we collect, use, and protect your data" />
-            <LegalLink to="/terms" label="Terms of Service" sub="Rules and guidelines for using Caafi" />
+            <LegalLink to="/terms" label="Terms of Service" sub="Rules and guidelines for using JirDhis" />
             <LegalLink to="/delete-account" label="Account Deletion" sub="Request permanent deletion of your account and data" />
 
             {/* Email contact */}

@@ -36,7 +36,7 @@ export default function Navbar() {
             to="/"
             className="text-emerald-600 font-extrabold text-xl tracking-tight"
           >
-            Caafi
+            JirDhis
           </Link>
 
           {/* Desktop links */}

@@ -123,7 +123,7 @@ export default function DeleteAccount() {
             {errors.email && (
               <p className="text-red-500 text-xs mt-1.5">{errors.email}</p>
             )}
-            <p className="text-slate-400 text-xs mt-1.5">Enter the email used to register your Caafi account.</p>
+            <p className="text-slate-400 text-xs mt-1.5">Enter the email used to register your JirDhis account.</p>
           </div>
 
           {/* Reason */}

@@ -38,10 +38,10 @@ export default function Privacy() {
           <SectionHeading>1. Introduction</SectionHeading>
           <div className="space-y-3">
             <p>
-              Caafi ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains what data we collect when you use the Caafi mobile application, how we use it, and the rights you have over your information.
+              JirDhis ("we", "our", "us") is committed to protecting your privacy. This Privacy Policy explains what data we collect when you use the JirDhis mobile application, how we use it, and the rights you have over your information.
             </p>
             <p>
-              By using Caafi, you agree to the collection and use of information in accordance with this policy. If you do not agree, please discontinue use of the app.
+              By using JirDhis, you agree to the collection and use of information in accordance with this policy. If you do not agree, please discontinue use of the app.
             </p>
           </div>
         </section>
@@ -77,7 +77,7 @@ export default function Privacy() {
           <div className="space-y-3">
             <p>We use your information to:</p>
             <ul className="space-y-3 mt-2">
-              <Bullet>Provide and continuously improve the Caafi app experience.</Bullet>
+              <Bullet>Provide and continuously improve the JirDhis app experience.</Bullet>
               <Bullet>Save your workout plans and nutrition logs securely across devices.</Bullet>
               <Bullet>Show you relevant exercises and food items within the app.</Bullet>
               <Bullet>Diagnose crashes and fix technical issues.</Bullet>
@@ -113,7 +113,7 @@ export default function Privacy() {
         <section>
           <SectionHeading>5. Third-Party Services</SectionHeading>
           <div className="space-y-3">
-            <p>Caafi uses the following third-party services:</p>
+            <p>JirDhis uses the following third-party services:</p>
             <ul className="space-y-3 mt-2">
               <Bullet label="Supabase (database &amp; auth)">
                 Powers our backend, database, and authentication. See their privacy policy at{' '}
@@ -151,7 +151,7 @@ export default function Privacy() {
             <p>You have the following rights regarding your personal data:</p>
             <ul className="space-y-3 mt-2">
               <Bullet label="Access">
-                View all your data (workouts, food logs, progress) directly inside the Caafi app.
+                View all your data (workouts, food logs, progress) directly inside the JirDhis app.
               </Bullet>
               <Bullet label="Delete">
                 Request permanent deletion of your account and all associated data via our{' '}
@@ -182,7 +182,7 @@ export default function Privacy() {
           <SectionHeading>7. Children's Privacy</SectionHeading>
           <div className="space-y-3">
             <p>
-              Caafi is not intended for users under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal data, please contact us immediately and we will delete it.
+              JirDhis is not intended for users under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with personal data, please contact us immediately and we will delete it.
             </p>
           </div>
         </section>
@@ -208,7 +208,7 @@ export default function Privacy() {
               If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
             </p>
             <div className="p-5 bg-slate-50 rounded-xl border border-slate-200">
-              <p className="font-semibold text-slate-800">Caafi Support</p>
+              <p className="font-semibold text-slate-800">JirDhis Support</p>
               <a
                 href="mailto:ismailbulbul381@gmail.com"
                 className="text-emerald-600 hover:text-emerald-700 underline"
